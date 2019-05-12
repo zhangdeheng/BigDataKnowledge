@@ -4,7 +4,7 @@ import java.sql.SQLOutput;
 
 public class MySynchronized {
     public static void main(String[] args) {
-        MySynchronized mySynchronized = new MySynchronized();
+        final MySynchronized mySynchronized = new MySynchronized();
         MySynchronized mySynchronized1 = new MySynchronized();
         new Thread("thread"){
             public void run(){

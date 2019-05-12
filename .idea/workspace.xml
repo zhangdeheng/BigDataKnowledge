@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73897a3f-6599-4022-91cd-127bde7d7121" name="Default Changelist" comment="" />
+    <list default="true" id="73897a3f-6599-4022-91cd-127bde7d7121" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_stephenc_findbugs_findbugs_annotations_1_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_12_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_6_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_50_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_1_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_annotations_1_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_client_1_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_common_1_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_protocol_1_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_htrace_htrace_core_3_1_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jruby_jcodings_jcodings_1_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jruby_joni_joni_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/shareing/myHbase/BaseOperate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BigDataKnowledge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BigDataKnowledge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myBlockingQueue/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myBlockingQueue/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myBlockingQueue/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyLockInterruptibly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyReentrantLockDemo001$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyReentrantLockDemo001$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyReentrantLockDemo001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyReentrantLockDemo002$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyReentrantLockDemo002$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyReentrantLockDemo002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyReentrantLockTryLock$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyReentrantLockTryLock$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyReentrantLockTryLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/ReentrantReadWriteLock001$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/ReentrantReadWriteLock001$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/ReentrantReadWriteLock001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/ReentrantReadWriteLock002$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/ReentrantReadWriteLock002$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/ReentrantReadWriteLock002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myThreadool/LiftOff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myThreadool/TaskWithResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myThreadool/ThreadPoolWithCallable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myThreadool/ThreadPoolWithCallable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myThreadool/ThreadPoolWithCallable001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myThreadool/ThreadPoolWithRunable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myThreadool/ThreadPoolWithRunable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertData$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertData$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertDataObj$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertDataObj$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertDataObj.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertDataStatic$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertDataStatic$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertDataStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertDataThis$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertDataThis$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertDataThis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/MySynchronized$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/MySynchronized$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/MySynchronized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mythread/ExtendsFunction001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mythread/ExtendsFunction002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mythread/ImplRunable001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/shareing/mysynchronized/MySynchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/shareing/mysynchronized/MySynchronized.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,47 +125,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/shareing/myThreadool/ThreadPoolWithRunable.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/shareing/myHbase/BaseOperate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+            <state relative-caret-position="44">
+              <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/shareing/myThreadool/ThreadPoolWithCallable001.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#322#338#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/shareing/myThreadool/LiftOff.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -59,8 +144,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="189" column="3" lean-forward="true" selection-start-line="189" selection-start-column="3" selection-end-line="189" selection-end-column="3" />
+            <state relative-caret-position="2635">
+              <caret line="189" column="3" selection-start-line="189" selection-start-column="3" selection-end-line="189" selection-end-column="3" />
               <folding>
                 <element signature="e#0#15739#0" expanded="true" />
               </folding>
@@ -71,12 +156,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/shareing/myBlockingQueue/Producer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="15" column="13" lean-forward="true" selection-end-line="26" />
+            <state relative-caret-position="204">
+              <caret line="15" column="13" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -86,30 +169,19 @@
         <entry file="file://$PROJECT_DIR$/src/org/shareing/myBlockingQueue/Consumer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="7" lean-forward="true" selection-end-line="26" />
+              <caret line="7" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/shareing/myBlockingQueue/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Queue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="949">
-              <caret line="197" column="7" lean-forward="true" selection-start-line="197" selection-start-column="7" selection-end-line="197" selection-end-column="7" />
+            <state relative-caret-position="119">
+              <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -141,6 +213,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -150,7 +225,6 @@
         <option value="$PROJECT_DIR$/src/org/shareing/mythread/ExtendsFunction001.java" />
         <option value="$PROJECT_DIR$/src/org/shareing/mythread/ExtendsFunction002.java" />
         <option value="$PROJECT_DIR$/src/org/shareing/mythread/ImplRunable001.java" />
-        <option value="$PROJECT_DIR$/src/org/shareing/mysynchronized/MySynchronized.java" />
         <option value="$PROJECT_DIR$/src/org/shareing/mysynchronized/InsertDataThis.java" />
         <option value="$PROJECT_DIR$/src/org/shareing/mysynchronized/InsertDataObj.java" />
         <option value="$PROJECT_DIR$/src/org/shareing/mysynchronized/InsertDataStatic.java" />
@@ -170,19 +244,49 @@
         <option value="$PROJECT_DIR$/src/org/shareing/myBlockingQueue/Test.java" />
         <option value="$PROJECT_DIR$/src/org/shareing/myBlockingQueue/Producer.java" />
         <option value="$PROJECT_DIR$/src/org/shareing/myBlockingQueue/Consumer.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/org/shareing/mysynchronized/MySynchronized.java" />
+        <option value="$PROJECT_DIR$/src/org/shareing/myHbase/BaseOperate.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bigdata" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bigdata" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bigdata" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.apache.hbase:hbase-client:1.2.12" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,44 +310,30 @@
               <item name="BigDataKnowledge" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shareing" type="462c0819:PsiDirectoryNode" />
-              <item name="myBlockingQueue" type="462c0819:PsiDirectoryNode" />
+              <item name="myHbase" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BigDataKnowledge" type="b2602c69:ProjectViewProjectNode" />
               <item name="BigDataKnowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="shareing" type="462c0819:PsiDirectoryNode" />
-              <item name="myLock" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigDataKnowledge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BigDataKnowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="shareing" type="462c0819:PsiDirectoryNode" />
-              <item name="mysynchronized" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigDataKnowledge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BigDataKnowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="shareing" type="462c0819:PsiDirectoryNode" />
-              <item name="mythread" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -265,7 +355,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.BaseOperate">
+    <configuration name="BaseOperate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.shareing.myHbase.BaseOperate" />
+      <module name="BigDataKnowledge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.shareing.myHbase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LiftOff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.shareing.myThreadool.LiftOff" />
       <module name="BigDataKnowledge" />
@@ -285,19 +388,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.shareing.myBlockingQueue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadPoolWithCallable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.shareing.myThreadool.ThreadPoolWithCallable" />
-      <module name="BigDataKnowledge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.shareing.myThreadool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,18 +423,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ThreadPoolWithRunable" />
-      <item itemvalue="Application.ThreadPoolWithCallable" />
       <item itemvalue="Application.ThreadPoolWithCallable001" />
       <item itemvalue="Application.LiftOff" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.BaseOperate" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaseOperate" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.LiftOff" />
         <item itemvalue="Application.ThreadPoolWithRunable" />
         <item itemvalue="Application.ThreadPoolWithCallable001" />
-        <item itemvalue="Application.ThreadPoolWithCallable" />
       </list>
     </recent_temporary>
   </component>
@@ -358,45 +448,85 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556877270227</updated>
-      <workItem from="1556877274333" duration="17979000" />
+      <workItem from="1556877274333" duration="18711000" />
+      <workItem from="1557220498931" duration="227000" />
+      <workItem from="1557637538025" duration="1454000" />
+      <workItem from="1557639417019" duration="323000" />
+      <workItem from="1557639775843" duration="1267000" />
+      <workItem from="1557652159180" duration="2912000" />
+      <workItem from="1557657036065" duration="1171000" />
+      <workItem from="1557658634799" duration="490000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17979000" />
+    <option name="totallyTimeSpent" value="26555000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="1" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2746781" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.3299363" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3299363" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3297568" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shareing/myHbase/BaseOperate.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shareing/myHbase/BaseOperate.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="System.getenv()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>System.getenv()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
@@ -421,13 +551,6 @@
             <element signature="e#165#166#0" expanded="true" />
             <element signature="e#185#186#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/shareing/mysynchronized/MySynchronized.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="26" column="44" lean-forward="true" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -585,62 +708,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/shareing/mysynchronized/InsertDataObj.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/shareing/mythread/ExtendsFunction001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/shareing/myThreadool/ThreadPoolWithCallable001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#322#338#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/shareing/myThreadool/ThreadPoolWithRunable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/shareing/myThreadool/LiftOff.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="949">
-          <caret line="197" column="7" lean-forward="true" selection-start-line="197" selection-start-column="7" selection-end-line="197" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/java.util.concurrent.BlockingQueue">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -667,7 +734,7 @@
               <point x="0.0" y="13.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-209.5" y="131.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-209.0" y="132.0" />
           <SelectedNodes>
             <node>java.util.concurrent.BlockingQueue</node>
             <node>java.lang.Iterable</node>
@@ -678,10 +745,106 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shareing/myThreadool/ThreadPoolWithCallable001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shareing/myThreadool/ThreadPoolWithRunable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.2.12/hbase-client-1.2.12.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shareing/myThreadool/LiftOff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2788">
+          <caret line="197" column="7" selection-start-line="197" selection-start-column="7" selection-end-line="197" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-common/1.2.12/hbase-common-1.2.12.jar!/org/apache/hadoop/hbase/TableName.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="26" column="50" lean-forward="true" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.2.12/hbase-client-1.2.12.jar!/org/apache/hadoop/hbase/client/Durability.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shareing/mysynchronized/MySynchronized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.2.12/hbase-client-1.2.12.jar!/org/apache/hadoop/hbase/client/Admin.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.2.12/hbase-client-1.2.12.jar!/org/apache/hadoop/hbase/client/HBaseAdmin.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="405" column="19" lean-forward="true" selection-start-line="405" selection-start-column="19" selection-end-line="405" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shareing/myHbase/BaseOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="189" column="3" lean-forward="true" selection-start-line="189" selection-start-column="3" selection-end-line="189" selection-end-column="3" />
+        <state relative-caret-position="2635">
+          <caret line="189" column="3" selection-start-line="189" selection-start-column="3" selection-end-line="189" selection-end-column="3" />
           <folding>
             <element signature="e#0#15739#0" expanded="true" />
           </folding>
@@ -690,12 +853,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/shareing/myBlockingQueue/Producer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="13" lean-forward="true" selection-end-line="26" />
+        <state relative-caret-position="204">
+          <caret line="15" column="13" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -703,21 +864,106 @@
     <entry file="file://$PROJECT_DIR$/src/org/shareing/myBlockingQueue/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="7" lean-forward="true" selection-end-line="26" />
+          <caret line="7" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/shareing/myBlockingQueue/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="119">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shareing/mythread/ExtendsFunction001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shareing/mysynchronized/InsertDataObj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BigDataKnowledge</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
