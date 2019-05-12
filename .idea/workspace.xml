@@ -2,119 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73897a3f-6599-4022-91cd-127bde7d7121" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_stephenc_findbugs_findbugs_annotations_1_3_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_12_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_6_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_50_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_1_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_annotations_1_2_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_client_1_2_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_common_1_2_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_protocol_1_2_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_htrace_htrace_core_3_1_0_incubating.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jruby_jcodings_jcodings_1_0_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jruby_joni_joni_2_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/shareing/myHbase/BaseOperate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BigDataKnowledge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BigDataKnowledge.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myBlockingQueue/Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myBlockingQueue/Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myBlockingQueue/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyLockInterruptibly.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyReentrantLockDemo001$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyReentrantLockDemo001$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyReentrantLockDemo001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyReentrantLockDemo002$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyReentrantLockDemo002$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyReentrantLockDemo002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyReentrantLockTryLock$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyReentrantLockTryLock$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyReentrantLockTryLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/ReentrantReadWriteLock001$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/ReentrantReadWriteLock001$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/ReentrantReadWriteLock001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/ReentrantReadWriteLock002$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/ReentrantReadWriteLock002$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myLock/ReentrantReadWriteLock002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myThreadool/LiftOff.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myThreadool/TaskWithResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myThreadool/ThreadPoolWithCallable$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myThreadool/ThreadPoolWithCallable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myThreadool/ThreadPoolWithCallable001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myThreadool/ThreadPoolWithRunable$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/myThreadool/ThreadPoolWithRunable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertData$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertData$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertDataObj$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertDataObj$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertDataObj.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertDataStatic$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertDataStatic$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertDataStatic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertDataThis$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertDataThis$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/InsertDataThis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/MySynchronized$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/MySynchronized$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mysynchronized/MySynchronized.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mythread/ExtendsFunction001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mythread/ExtendsFunction002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BigDataKnowledge/org/shareing/mythread/ImplRunable001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/shareing/mysynchronized/MySynchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/shareing/mysynchronized/MySynchronized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/shareing/myHbase/BaseOperate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/shareing/myHbase/BaseOperate.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -132,10 +21,24 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/shareing/myHbase/BaseOperate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+            <state relative-caret-position="122">
+              <caret line="219" selection-start-line="219" selection-end-line="219" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#modifySchema#0;class#BaseOperate#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.2.12/hbase-client-1.2.12.jar!/org/apache/hadoop/hbase/client/Delete.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2882">
+              <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+              <folding>
+                <element signature="e#949#950#0" expanded="true" />
+                <element signature="e#996#997#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -285,8 +188,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -321,6 +222,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -455,32 +358,33 @@
       <workItem from="1557639775843" duration="1267000" />
       <workItem from="1557652159180" duration="2912000" />
       <workItem from="1557657036065" duration="1171000" />
-      <workItem from="1557658634799" duration="490000" />
+      <workItem from="1557658634799" duration="1553000" />
+      <workItem from="1557661442655" duration="7680000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26555000" />
+    <option name="totallyTimeSpent" value="35298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2746781" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27825466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3299363" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3299363" />
@@ -501,15 +405,21 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/org/shareing/myHbase/BaseOperate.java</url>
-          <line>39</line>
+          <line>189</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/org/shareing/myHbase/BaseOperate.java</url>
-          <line>24</line>
+          <line>30</line>
           <properties />
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/shareing/myHbase/BaseOperate.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -817,27 +727,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.2.12/hbase-client-1.2.12.jar!/org/apache/hadoop/hbase/client/Admin.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.2.12/hbase-client-1.2.12.jar!/org/apache/hadoop/hbase/client/HBaseAdmin.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="405" column="19" lean-forward="true" selection-start-line="405" selection-start-column="19" selection-end-line="405" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/shareing/myHbase/BaseOperate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -889,6 +782,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.2.12/hbase-client-1.2.12.jar!/org/apache/hadoop/hbase/client/Admin.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.2.12/hbase-client-1.2.12.jar!/org/apache/hadoop/hbase/client/Delete.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2882">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding>
+            <element signature="e#949#950#0" expanded="true" />
+            <element signature="e#996#997#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/shareing/myHbase/BaseOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="219" selection-start-line="219" selection-end-line="219" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#modifySchema#0;class#BaseOperate#0" />
+          </folding>
         </state>
       </provider>
     </entry>
